@@ -49,5 +49,4 @@ The results of Torchsar shown above were focused by  Range Doppler Algorithm (RD
 
 
 
-
-__© Copyright 2017-2021, Zhi Liu, School of Artificial Intelligence, Xidian University__
+*© Copyright 2017-2021, Zhi Liu, School of Artificial Intelligence, Xidian University*
