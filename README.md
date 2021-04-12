@@ -9,30 +9,33 @@ Artificial intelligence for Synthetic Aperture Radar.
 
 <center>
 <figure>
-<img src="./Figure/ALOSStanleyParkEnvi.png" width="45%" height="45%" />
-<img src="./Figure/ALOSStanleyParkTorchsar.png" width="45%" height="45%" />
+<img src="./Figure/ALOSStanleyParkEnviWK.png" width="45%" height="45%" />
+<img src="./Figure/ALOSStanleyParkTorchsarHammingRDA.png" width="45%" height="45%" />
 </figure>
-ALOS, Stanley Park,  Envi (Left), Torchsar (Right)
+ALOS, Stanley Park,  ENVI (Left), Torchsar (Right)
 </center>
 
 <center>
 <figure>
-<img src="./Figure/ALOSUniversityOfBritishColumbiaEnvi.png" width="45%" height="45%" />
-<img src="./Figure/ALOSUniversityOfBritishColumbiaTorchsar.png" width="45%" height="45%" />
+<img src="./Figure/ALOSUniversityOfBritishColumbiaEnviWK.png" width="45%" height="45%" />
+<img src="./Figure/ALOSUniversityOfBritishColumbiaTorchsarHammingRDA.png" width="45%" height="45%" />
 </figure>
-ALOS, University of British Columbia,  Envi (Left), Torchsar (Right)
+ALOS, University of British Columbia,  ENVI (Left), Torchsar (Right)
 </center>
 
 <center>
 <figure>
-<img src="./Figure/ALOSVancouverAirportEnvi.png" width="45%" height="45%" />
-<img src="./Figure/ALOSVancouverAirportTorchsar.png" width="45%" height="45%" />
+<img src="./Figure/ALOSVancouverAirportEnviWK.png" width="45%" height="45%" />
+<img src="./Figure/ALOSVancouverAirportTorchsarHammingRDA.png" width="45%" height="45%" />
 </figure>
-ALOS, Vancouver Airport,  Envi (Left), Torchsar (Right)
+ALOS, Vancouver Airport,  ENVI (Left), Torchsar (Right)
 </center>
 
+The focusing module of ENVI SARscape generates complex images (SLC) based on a ``ω-k`` frequency domain algorithm. The results of ENVI shown above have been processed by radiometric and geometric correction. [more](https://www.l3harrisgeospatial.com/Portals/0/pdfs/HG_SARscape_brochure_WEB.pdf)
 
-## Links
+The results of Torchsar shown above were focused by  Range Doppler Algorithm (RDA). The hamming window is utilized to  suppress the sidelobe.
+
+### Links
 
 
 
