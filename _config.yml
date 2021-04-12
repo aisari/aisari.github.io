@@ -1,1 +1,8 @@
+title: AISAR
+description: Artificial Intelligence for Synthetic Aperture Radar.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-merlot
+github:
+  is_user_page: true
+
