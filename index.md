@@ -8,7 +8,7 @@ Artificial Intelligence for Synthetic Aperture Radar.
 
 ## Projects
 
-- [torchsar](https://iridescent.ink/torchsar): Synthetic Aperture Radar in PyTorch.
+- [torchsar](https://aisari.iridescent.ink/torchsar): Synthetic Aperture Radar in PyTorch.
 - [iprs3.0](https://iridescent.ink/iprs3.0/): Synthetic Aperture Radar in Python.
 
 <center>
